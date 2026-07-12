@@ -37,3 +37,42 @@ Powered by Google Gemini Vision, the application analyzes visual content, extrac
 - Read handwritten text
 - Extract important information
 - Answer user questions
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Google Gemini API
+- Pillow (PIL)
+- python-dotenv
+
+## ⚙️ Workflow
+
+1. User uploads Image or PDF
+2. User enters a prompt/question
+3. Gemini Vision processes the content
+4. AI generates insights and answers
+5. Results are displayed in Streamlit
+
+## 📦 Installation
+
+Clone the repository
+
+
+## 🚀 Future Enhancements
+
+- OCR optimization
+- Multi-file analysis
+- Audio and video support
+- Chat history
+- Export results to PDF
+- Cloud deployment
+
+## 📚 What I Learned
+
+- Google Gemini Vision
+- Prompt Engineering
+- Streamlit Development
+- Multimodal AI Applications
+- Secure API Management
+- User Experience Design
